@@ -1,2 +1,2 @@
 # stylelane
-come soon
+coming soon
